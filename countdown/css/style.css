@@ -2,13 +2,13 @@ html {
     height: 100%;
 }
 
-body {
-    margin: 0px;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    align-content: space-around;
-}
+/*body {*/
+/*    margin: 0px;*/
+/*    height: 100%;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    align-content: space-around;*/
+/*}*/
 
 body,
 .example h1,
