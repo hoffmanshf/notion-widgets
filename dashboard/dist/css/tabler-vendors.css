@@ -390,7 +390,7 @@
   margin: 1px 1px 0 0;
 }
 .noUi-handle.noUi-active, .noUi-handle:focus {
-  box-shadow: 0 0 0 1px #f5f7fb, 0 0 0 0.25rem rgba(32, 107, 196, 0.25);
+  box-shadow: 0 0 0 1px white, 0 0 0 0.25rem rgba(32, 107, 196, 0.25);
 }
 
 .noUi-connect {
